@@ -14,7 +14,3 @@ SSSSSSS     S:::::SN::::::N      N::::::::NO:::::::OOO:::::::O  G:::::GGGGGGGG::
 S::::::SSSSSS:::::SN::::::N       N:::::::N OO:::::::::::::OO    GG:::::::::::::::G  UU:::::::::::::UU  E::::::::::::::::::::E
 S:::::::::::::::SS N::::::N        N::::::N   OO:::::::::OO        GGG::::::GGG:::G    UU:::::::::UU    E::::::::::::::::::::E
  SSSSSSSSSSSSSSS   NNNNNNNN         NNNNNNN     OOOOOOOOO             GGGGGG   GGGG      UUUUUUUUU      EEEEEEEEEEEEEEEEEEEEEE
-
-
-
-This is a simple website for downloading snogue.
