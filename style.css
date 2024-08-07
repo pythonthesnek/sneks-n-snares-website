@@ -58,13 +58,13 @@ li a:hover:not(.active) {
 }
 
 body {
-    background-color: #2d3e50;
+    background-color: #000064;
     color: #ffff;
     font-family: 'Helvetica';
 }
 
 a:link {
-    color: green;
+    color: lightgreen;
     background-color: transparent;
     text-decoration: none;
   }
