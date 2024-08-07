@@ -60,4 +60,26 @@ li a:hover:not(.active) {
 body {
     background-color: #2d3e50;
     color: #ffff;
+    font-family: 'Lucida Console';
 }
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
