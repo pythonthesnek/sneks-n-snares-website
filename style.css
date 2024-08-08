@@ -61,6 +61,7 @@ body {
     background-color: #577277;
     color: #ffff;
     font-family: 'Helvetica';
+    text-shadow: 2px 2px gray
 }
 
 a:link {
@@ -69,7 +70,7 @@ a:link {
     text-decoration: none;
   }
   a:visited {
-    color: pink;
+    color: green;
     background-color: transparent;
     text-decoration: none;
   }
