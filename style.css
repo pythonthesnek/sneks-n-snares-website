@@ -24,6 +24,11 @@
         left: 10px;
     }
 
+h1.clickable {
+    cursor: pointer;
+}
+      
+
 .right {
     text-align: right;
 }
